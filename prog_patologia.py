@@ -34,7 +34,7 @@ elif escolha == 5:
   for tag in juizo:
     print(f"Psicopatologia de Juízo - {tag}")
 
-elif escolha == 6:
+else escolha == 6:
   for tag in memoria:
     print(f"Psicopatologia da Memória - {tag}")
  

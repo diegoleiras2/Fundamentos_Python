@@ -15,3 +15,6 @@ print(representacao)
 print(conceitos)
 print(juizo)
 print(raciocinio)
+
+#print(percepcao["Agnosias"][0]) #dicionário
+print(percepcao[1][0])
